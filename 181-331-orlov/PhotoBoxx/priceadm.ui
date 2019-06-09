@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Priceadm</class>
+ <widget class="QDialog" name="Priceadm">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>671</width>
+    <height>546</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QTextBrowser" name="textBrowser">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>331</width>
+     <height>501</height>
+    </rect>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:1; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:18pt; background-color:#a33091;&quot;&gt;ПРАЙС-ЛИСТ&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:1; text-indent:0px; font-size:18pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:1; text-indent:0px; font-family:'inherit'; font-size:8pt; text-decoration: underline; color:#a33091;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:1; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans,sans-serif'; font-size:8pt; font-weight:600; color:#0b0b0b; background-color:#a33091; text-transform:uppercase;&quot;&gt;ФОТОКНИГИ ПРЕМИУМ НА ФОТОБУМАГЕ&lt;/span&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'inherit'; font-size:8pt; color:#0b0b0b;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://www.netprint.ru/moscow/photobooks/photobook-premium-hard-cover&quot;&gt;&lt;span style=&quot; font-size:13px; text-decoration: underline; color:#2c2b2c; background-color:transparent;&quot;&gt;Твердая обложка&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'inherit'; font-size:8pt; color:#0b0b0b;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://www.netprint.ru/moscow/photobooks/photobook-premium-soft-cover&quot;&gt;&lt;span style=&quot; font-size:13px; text-decoration: underline; color:#a33091; background-color:transparent;&quot;&gt;Мягкая обложка (минибук)&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'inherit'; font-size:8pt; text-decoration: underline; color:#a33091; background-color:transparent;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://www.netprint.ru/moscow/photobooks/photobook-premium-soft-cover&quot;&gt;&lt;span style=&quot; font-size:13px; color:#ff0000;&quot;&gt;Цена на Фотокниги зависит от колличества страниц&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:1; text-indent:0px; font-family:'inherit'; font-size:8pt; text-decoration: underline; color:#a33091;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:1; text-indent:0px; font-family:'inherit'; font-size:8pt; text-decoration: underline; color:#a33091;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'inherit'; font-size:8pt; text-decoration: underline; color:#a33091; background-color:transparent;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans,sans-serif'; font-size:14px; font-weight:600; text-decoration:none; color:#0b0b0b; background-color:#a33091; text-transform:uppercase;&quot;&gt;СТАНДАРТНЫЕ&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'inherit'; font-size:8pt; color:#0b0b0b;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://www.netprint.ru/moscow/photo/photo-standart?blank_id=24618&quot;&gt;&lt;span style=&quot; font-size:13px; text-decoration: underline; color:#2c2b2c; background-color:transparent;&quot;&gt;10х15; 10х13.5 - 5р.&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'inherit'; font-size:8pt; color:#0b0b0b;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://www.netprint.ru/moscow/photo/photo-standart&quot;&gt;&lt;span style=&quot; font-size:13px; text-decoration: underline; color:#2c2b2c; background-color:transparent;&quot;&gt;10х10; 15х15 - 7р.&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'inherit'; font-size:8pt; color:#0b0b0b;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://www.netprint.ru/moscow/photo/photo-standart&quot;&gt;&lt;span style=&quot; font-size:13px; text-decoration: underline; color:#2c2b2c; background-color:transparent;&quot;&gt;13x18; 15х21 - 9р.&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'inherit'; font-size:8pt; color:#0b0b0b;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://www.netprint.ru/moscow/photo/photo-standart&quot;&gt;&lt;span style=&quot; font-size:13px; text-decoration: underline; color:#a33091; background-color:transparent;&quot;&gt;20х30; 30х45 - 15р.&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:1; text-indent:0px; font-family:'inherit'; font-size:8pt; text-decoration: underline; color:#a33091;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:1; text-indent:0px; font-family:'inherit'; font-size:8pt; text-decoration: underline; color:#a33091;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;li style=&quot; font-family:'inherit'; font-size:8pt; text-decoration: underline; color:#a33091; background-color:transparent;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans,sans-serif'; font-size:14px; font-weight:600; text-decoration:none; color:#0b0b0b; background-color:#a33091; text-transform:uppercase;&quot;&gt;ШЕЛК&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'inherit'; font-size:8pt; color:#0b0b0b;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://www.netprint.ru/moscow/photo/photo-silk&quot;&gt;&lt;span style=&quot; font-size:13px; text-decoration: underline; color:#2c2b2c; background-color:transparent;&quot;&gt;10х15 - 29р.&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'inherit'; font-size:8pt; color:#0b0b0b;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://www.netprint.ru/moscow/photo/photo-silk&quot;&gt;&lt;span style=&quot; font-size:13px; text-decoration: underline; color:#2c2b2c; background-color:transparent;&quot;&gt;15х21 - 36р.&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'inherit'; font-size:8pt; color:#0b0b0b;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://www.netprint.ru/moscow/photo/photo-silk&quot;&gt;&lt;span style=&quot; font-size:13px; text-decoration: underline; color:#a33091; background-color:transparent;&quot;&gt;20х30; 30х45 - 45р.&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:1; text-indent:0px; font-family:'inherit'; font-size:8pt; text-decoration: underline; color:#a33091;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:1; text-indent:0px; font-family:'inherit'; font-size:8pt; text-decoration: underline; color:#a33091;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;li style=&quot; font-family:'inherit'; font-size:8pt; text-decoration: underline; color:#a33091; background-color:transparent;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans,sans-serif'; font-size:14px; font-weight:600; text-decoration:none; color:#0b0b0b; background-color:#a33091; text-transform:uppercase;&quot;&gt;ПРЕМИУМ&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'inherit'; font-size:8pt; color:#0b0b0b;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://www.netprint.ru/moscow/photo/photo-premium&quot;&gt;&lt;span style=&quot; font-size:13px; text-decoration: underline; color:#2c2b2c; background-color:transparent;&quot;&gt;10х15 - 11р.&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'inherit'; font-size:8pt; color:#0b0b0b;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://www.netprint.ru/moscow/photo/photo-premium&quot;&gt;&lt;span style=&quot; font-size:13px; text-decoration: underline; color:#2c2b2c; background-color:transparent;&quot;&gt;15x21 - 18р.&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'inherit'; font-size:8pt; color:#0b0b0b;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:3px; margin-right:3px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://www.netprint.ru/moscow/photo/photo-premium&quot;&gt;&lt;span style=&quot; font-size:13px; text-decoration: underline; color:#a33091; background-color:transparent;&quot;&gt;20х30; 30х45 - 26р.&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Zakaz">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>110</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>ЗАКАЗАТЬ</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="klog">
+   <property name="geometry">
+    <rect>
+     <x>430</x>
+     <y>170</y>
+     <width>181</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Вернуться к авторизации</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>510</x>
+     <y>20</y>
+     <width>61</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Ваш ник:</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="yourlogin">
+   <property name="geometry">
+    <rect>
+     <x>570</x>
+     <y>20</y>
+     <width>55</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>510</x>
+     <y>510</y>
+     <width>151</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Поменять логин/пароль</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>450</x>
+     <y>230</y>
+     <width>141</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Список заказов</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

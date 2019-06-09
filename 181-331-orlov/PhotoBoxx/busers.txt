@@ -1,0 +1,3 @@
+Vadia:1234:admin
+Ded:1234:user
+Sasha:1234:contractor
